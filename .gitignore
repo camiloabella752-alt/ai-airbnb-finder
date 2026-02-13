@@ -1,0 +1,18 @@
+# entorno virtual
+venv/
+
+# variables privadas
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# sistema
+.DS_Store
+
+# streamlit cache
+.streamlit/
+
+# node
+node_modules/
