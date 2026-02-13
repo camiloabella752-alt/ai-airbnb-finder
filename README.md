@@ -11,6 +11,7 @@ Aplicación web que permite buscar alojamientos reales usando Inteligencia Artif
 
 ## Cómo funciona
 El usuario escribe un destino → la IA consulta Airbnb real → muestra alojamientos con links oficiales.
+El sistema usa Gemini CLI como agente autónomo conectado mediante el protocolo MCP al servicio de Airbnb, permitiendo consultar alojamientos reales en tiempo real y mostrarlos en una interfaz interactiva con enlaces oficiales.
 
 ## Ejecutar proyecto
 
